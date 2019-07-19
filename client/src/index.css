@@ -68,5 +68,11 @@ body {
 
 .home-button {
   padding: 5px 10px;
-  background-color: lightskyblue;
+  /* background-color: lightgrey; */
+  border: 2px solid black;
+}
+
+a {
+  text-decoration: underline;
+  color: black;
 }
